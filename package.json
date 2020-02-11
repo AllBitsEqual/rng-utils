@@ -1,0 +1,19 @@
+{
+  "name": "@allbitsequal/rng-utils",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AllBitsEqual/rng-utils.git"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "description": "The react native games: Utils repository (short: rng-utils) includes useful functions and helpers for app and game development.",
+  "keywords": [
+    "utilities",
+    "game dev tools",
+    "package",
+    "allbitsequal",
+    "react native games",
+    "game development"
+  ]
+}
